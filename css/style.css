@@ -1,0 +1,23 @@
+@charset"UTF-8";
+
+h1{
+    color: #81cf79
+}
+
+table{
+    border-collapse: separate;
+}
+
+caption{
+    text-align: left;
+}
+
+th{
+    background: #d4ec7e
+}
+
+th,td{
+    border: 1px solid #000000;
+    padding: 5px 5px;
+    text-align: center;
+}
