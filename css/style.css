@@ -1,23 +1,27 @@
 @charset"UTF-8";
 
-h1{
+h1 {
     color: #81cf79
 }
 
-table{
+table {
     border-collapse: separate;
 }
 
-caption{
+caption {
     text-align: left;
 }
 
-th{
+th {
     background: #d4ec7e
 }
 
-th,td{
+th,td {
     border: 1px solid #000000;
     padding: 5px 5px;
     text-align: center;
+}
+tr:hover {
+    cursor:default;
+    background: #f7e096;
 }
